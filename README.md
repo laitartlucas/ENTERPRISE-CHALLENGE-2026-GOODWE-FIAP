@@ -163,8 +163,6 @@ Duas APIs externas foram mapeadas para enriquecer a plataforma:
 
 ![Arquitetura da solução EV ChargeOps](./arquitetura_ev_chargeops.png)
 
-*A imagem `arquitetura_ev_chargeops.png` está no repositório.*
-
 ### 4.2 As quatro camadas da plataforma
 
 **1. Camada Física (hardware).** Carregador GoodWe HCA G2 e, opcionalmente, medidor MID e o veículo elétrico. Responsável pela entrega de energia e pela geração dos dados brutos de cada sessão.
