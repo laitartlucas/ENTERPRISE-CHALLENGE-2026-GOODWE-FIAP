@@ -7,9 +7,11 @@
 
 ## Equipe
 
-| André Luiz Hlatchuk | 571789 |  
-| Bruno Trevizan Strapazzon | 573816 |  
-| Lucas Matheus Laitart | 573137 |  
+| Nome | RM |
+|------|----|
+| André Luiz Hlatchuk | 571789 |
+| Bruno Trevizan Strapazzon | 573816 |
+| Lucas Matheus Laitart | 573137 |
 
 ---
 
